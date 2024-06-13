@@ -1,0 +1,26 @@
+body{ 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+   background-color: #289968;
+
+}
+.container{ 
+   text-align: center;
+   background-color: #c5c795;
+   height: 400px;
+   width: 600px;
+   border-radius: 8px;
+}
+input{ 
+   padding: 10px;
+   font-size: 10px;
+   background-color: darkgrey;
+}
+button{ 
+   padding: 5px;
+   margin-left: 10px;
+   font-size: 10px;
+   background-color: darkkhaki;
+}
